@@ -1,5 +1,7 @@
 # Waunty_portfolio
 
+# Ник в Роблоксе - https://www.roblox.com/users/2356525064/profile
+# Группа в Роблоксе - https://www.roblox.com/communities/32738826/RExWind-RoStudio#!/about
 
 💌Опыт в Luau и в общей разработке игр в Roblox Studio - 2.5 года (начиная с +- начала 22 года)
 
